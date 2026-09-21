@@ -1,6 +1,6 @@
 # arania-model
 
-The data model and the scheduling engine of [Arania](https://github.com/pm-lab-polito/arania), a real-time collaborative Gantt editor developed at the Polytechnic University of Turin.
+The data model and the scheduling engine of [Arania](https://arania.org), a real-time collaborative Gantt editor developed at the Polytechnic University of Turin.
 
 This repository is published so that your project data is never locked in: the format is documented, and the engine that turns it into a schedule can be read, run and verified outside the app.
 
