@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Arania or this model in scientific work, please cite this repository."
+title: "arania-model: data model and CPM scheduler of Arania"
+type: software
+authors:
+  - family-names: Rebuglio
+    given-names: Massimo
+    email: massimo.rebuglio@polito.it
+    affiliation: Polytechnic University of Turin
+version: 0.1.0
+date-released: 2026-09-21
+license: MIT
+repository-code: https://github.com/pm-lab-polito/arania-model
+keywords:
+  - project management
+  - scheduling
+  - critical path method
+  - Gantt
+  - CRDT
+  - collaborative editing
